@@ -7,11 +7,12 @@ export default function Hero() {
     <section className="relative h-[calc(100vh-4rem)] flex items-center justify-center overflow-hidden bg-background">
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-b from-background/50 to-background/80 z-10" />
-      <img
-  src="https://images.unsplash.com/photo-1557838923-2985c318be30?q=80&w=2072&auto=format&fit=crop"
-  alt="Modern Workspace"
+<img
+  src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=2072&auto=format&fit=crop"
+  alt="Code and Tech"
   className="object-cover w-full h-full opacity-90 dark:opacity-90"
 />
+
 
       </div>
       

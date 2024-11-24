@@ -28,7 +28,7 @@ export default function Hero() {
         >
           <div className="w-32 h-32 mx-auto mb-6 rounded-full border-4 border-primary overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=2555&auto=format&fit=crop"
+              src="https://photos.google.com/search/_cAF1QipNCYK0GTDeyY5TjQ3RZburtiXfWFaB2-Kc_Frank%20Muthomi/photo/AF1QipMISXhvuc8XC_yF1I1afn54giVKyxS5QrPupSa_"
               alt="Frank Muthomi"
               className="w-full h-full object-cover"
             />

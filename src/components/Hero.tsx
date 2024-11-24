@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-b from-background/50 to-background/80 z-10" />
         <img
-          src="https://unsplash.com/photos/a-mountain-covered-in-snow-under-a-cloudy-sky-mGx5-xt1uec"
+          src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop"
           alt="Tech Background"
           className="object-cover w-full h-full opacity-90 dark:opacity-90"
         />
@@ -28,7 +28,7 @@ export default function Hero() {
         >
           <div className="w-32 h-32 mx-auto mb-6 rounded-full border-4 border-primary overflow-hidden">
             <img
-              src="https://photos.google.com/search/_cAF1QipNCYK0GTDeyY5TjQ3RZburtiXfWFaB2-Kc_Frank%20Muthomi/photo/AF1QipMISXhvuc8XC_yF1I1afn54giVKyxS5QrPupSa_"
+              src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=2555&auto=format&fit=crop"
               alt="Frank Muthomi"
               className="w-full h-full object-cover"
             />

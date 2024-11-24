@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-b from-background/50 to-background/80 z-10" />
         <img
-          src="https://photos.fife.usercontent.google.com/pw/AP1GczMihte5buB3GBw5gHKd918UYk6Ari_oER01q1wtA2O1CPihreM-uDlh=w436-h775-s-no?authuser=0"
+          src="https://unsplash.com/photos/a-mountain-covered-in-snow-under-a-cloudy-sky-mGx5-xt1uec"
           alt="Tech Background"
           className="object-cover w-full h-full opacity-90 dark:opacity-90"
         />
